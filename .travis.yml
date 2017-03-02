@@ -8,5 +8,8 @@ addons:
   sonarqube:
     token:
       secure: SONAR_TOKEN # encrypted value of your token
+jdk:
+  - oraclejdk8
+
 script:
   - sonar-scanner
