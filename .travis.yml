@@ -4,3 +4,9 @@ php:
   - 5.4
   - hhvm
 script: phpunit Test.php
+addons:
+  sonarqube:
+    token:
+      secure: SONAR_TOKEN # encrypted value of your token
+script:
+  - sonar-scanner
