@@ -6,7 +6,7 @@ node {
       // Get the Maven tool.
       // ** NOTE: This 'M3' Maven tool must be configured
       // **       in the global configuration.           
-      scannerHome = tool 'SonarQube Scanner 2.8';
+      scannerHome = tool 'SonarScanner';
    }
    stage('SonarQube analysis') {
         withSonarQubeEnv('Cloud Machine') {
