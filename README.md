@@ -14,11 +14,3 @@ An example that will cause a build failure
 |[![Duplicate Lines Density](https://meltwatersecurityguild.cf/api/badges/measure?key=hello.world&metric=duplicated_lines_density)](https://meltwatersecurityguild.cf/dashboard/index/hello.world)|[![New Duplicate Lines Density](https://meltwatersecurityguild.cf/api/badges/measure?key=hello.world&metric=new_duplicated_lines_density)](https://meltwatersecurityguild.cf/dashboard/index/hello.world)|
 
 
-An example that will cause a build failure
-[![Quality Gate](https://meltwatersecurityguild.cf/api/badges/gate?key=sonar.docmodservice)](https://meltwatersecurityguild.cf/dashboard/index/sonar.docmodservice)
-[![Technical debt ratio](https://meltwatersecurityguild.cf/api/badges/measure?key=sonar.docmodservice&metric=sqale_debt_ratio)](https://meltwatersecurityguild.cf/dashboard/index/sonar.docmodservice) 
-
-
-An example that will cause a build failure
-[![Quality Gate](https://meltwatersecurityguild.cf/api/badges/gate?key=sonar.keystone)](https://meltwatersecurityguild.cf/dashboard/index/sonar.keystone)
-[![Technical debt ratio](https://meltwatersecurityguild.cf/api/badges/measure?key=sonar.keystone&metric=sqale_debt_ratio)](https://meltwatersecurityguild.cf/dashboard/index/sonar.keystone) 
